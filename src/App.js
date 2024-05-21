@@ -8,7 +8,7 @@ import requests from './request';
 
 function App() {
   useEffect(() => {
-    document.title = "Netflix Clone";
+    document.title = "MovieHubSpot";
   }, []);
   return (
     
